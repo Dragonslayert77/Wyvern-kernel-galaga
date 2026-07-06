@@ -1,0 +1,3 @@
+[submodule "common/drivers/baseband_guard"]
+	path = common/drivers/baseband_guard
+	url = https://github.com/vc-teahouse/Baseband-guard.git
