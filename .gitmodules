@@ -1,0 +1,12 @@
+[submodule "KernelSU-Next"]
+	path = KernelSU-Next
+	url = https://github.com/pershoot/KernelSU-Next.git
+	branch = dev-susfs
+[submodule "Baseband-guard"]
+	path = Baseband-guard
+	url = https://github.com/vc-teahouse/Baseband-guard.git
+	branch = dev-susfs
+[submodule "susfs4ksu"]
+	path = susfs4ksu
+	url = https://gitlab.com/pershoot/susfs4ksu.git
+	branch = gki-android14-6.1-dev
