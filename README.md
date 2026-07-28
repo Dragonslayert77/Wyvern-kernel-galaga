@@ -35,7 +35,7 @@
 > - 🛡️ [**Baseband-Guard**](https://github.com/vc-teahouse/Baseband-guard): A lightweight LSM (Linux Security Module) for the Android kernel, designed to block unauthorized writes to critical partitions/device nodes at the system level.
 > - ✅ **LTO optimized** — Thin LTO enabled for performance
 > - 🚀 [WIP] **Optimisation patches**: Memory, I/O, CPU scheduler, network and other general tunings
-> - 🚀 [WIP] **Capacity Aware Superset Scheduler (CASS)**, a custom CPU scheduler that improves battery life and performance
+> - ✅ **Capacity Aware Superset Scheduler (CASS)**, a custom CPU scheduler that improves battery life and performance
 > - ⌛ [WIP] **ZRAM LZ4 compression** - Maximize usable RAM
 > - ⌛ [WIP] [**Nethunter**](https://www.kali.org/docs/nethunter/): Open-source Android penetration testing platform for Android devices.
 > ### Networking Improvements:
