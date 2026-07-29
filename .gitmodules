@@ -5,7 +5,7 @@
 [submodule "Baseband-guard"]
 	path = Baseband-guard
 	url = https://github.com/vc-teahouse/Baseband-guard.git
-	branch = dev-susfs
+	branch = main
 [submodule "susfs4ksu"]
 	path = susfs4ksu
 	url = https://gitlab.com/pershoot/susfs4ksu.git
