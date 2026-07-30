@@ -1,7 +1,7 @@
 [submodule "KernelSU-Next"]
 	path = KernelSU-Next
-	url = https://github.com/pershoot/KernelSU-Next.git
-	branch = dev-susfs
+	url = https://github.com/Dragonslayert77/KernelSU-Next.git
+	branch = main
 [submodule "Baseband-guard"]
 	path = Baseband-guard
 	url = https://github.com/vc-teahouse/Baseband-guard.git

@@ -30,7 +30,7 @@
 >
 > - 🔐[**KernelSU-Next**](https://github.com/KernelSU-Next/KernelSU-Next): KernelSU-Next is a root solution for Android GKI devices, it works in kernel mode and grants root permission to userspace applications directly in kernel space.
 > - 🥷 [**SUSFS**](https://gitlab.com/simonpunk/susfs4ksu): An addon root hiding kernel patches and userspace module for KernelSU.
-> - 🔥 [WIP] **Multi manager support**, for default [Official KernelSU](https://github.com/tiann/KernelSU)/[RKSU](https://github.com/rsuntk/KernelSU)/[MKSU](https://github.com/5ec1cff/KernelSU)/[SukiSU](https://github.com/SukiSU-Ultra/SukiSU-Ultra)/[Wild KSU](https://github.com/WildKernels/Wild_KSU)/[KowSU](https://github.com/deepongi-labs/KernelSU-KoWSU) is supported work as manager with this kernel
+> - 🔥 **Multi manager support**, for default [Official KernelSU](https://github.com/tiann/KernelSU)/[RKSU](https://github.com/rsuntk/KernelSU)/[MKSU](https://github.com/5ec1cff/KernelSU)/[SukiSU](https://github.com/SukiSU-Ultra/SukiSU-Ultra)/[Wild KSU](https://github.com/WildKernels/Wild_KSU)/[KowSU](https://github.com/deepongi-labs/KernelSU-KoWSU) is supported work as manager with this kernel
 > - 🖥️ [**Droidspaces-OSS**](https://github.com/ravindu644/Droidspaces-OSS): A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty
 > - 🛡️ [**Baseband-Guard**](https://github.com/vc-teahouse/Baseband-guard): A lightweight LSM (Linux Security Module) for the Android kernel, designed to block unauthorized writes to critical partitions/device nodes at the system level.
 > - ✅ **LTO optimized** — Thin LTO enabled for performance
